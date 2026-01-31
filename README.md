@@ -88,12 +88,10 @@ This section is reserved for demonstrating the working of the project through im
 
 ### Images
 
-<img width="1919" height="943" alt="Screenshot 2025-11-28 182031" src="https://github.com/user-attachments/assets/9329c3c3-0f1a-4479-bf01-c616c615ca33" />
 
-<img width="959" height="409" alt="Screenshot 2025-11-28 181751" src="https://github.com/user-attachments/assets/23259db9-2232-45c1-b5b8-b7222bffee27" />
+<img width="1919" height="1012" alt="Screenshot 2026-01-31 143124" src="https://github.com/user-attachments/assets/24ced373-b956-4ad4-8a9f-19f801e62c0d" />
 
 ![WhatsApp Image 2026-01-31 at 2 22 48 PM(1)](https://github.com/user-attachments/assets/44f6a128-e01e-42ad-85e2-24847dc34f47)
-
 
 ### Video Demonstration
 
