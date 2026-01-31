@@ -1,4 +1,4 @@
-# Patient Health Monitoring System
+# VitalSense - Smart IoT Patient Health Monitoring System
 
 ## Overview
 
