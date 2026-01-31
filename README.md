@@ -90,11 +90,7 @@ This section is reserved for demonstrating the working of the project through im
 
 <img width="1919" height="943" alt="Screenshot 2025-11-28 182031" src="https://github.com/user-attachments/assets/9329c3c3-0f1a-4479-bf01-c616c615ca33" />
 
-
 <img width="959" height="409" alt="Screenshot 2025-11-28 181751" src="https://github.com/user-attachments/assets/23259db9-2232-45c1-b5b8-b7222bffee27" />
-
-
-![WhatsApp Image 2026-01-31 at 2 02 56 PM](https://github.com/user-attachments/assets/43ae8c59-4a4a-4786-bc6a-517c2e8bbb16)
 
 Example:
 
